@@ -2,10 +2,14 @@
 
 ## AZ-900: Microsoft Azure Fundamentals
 
-- [ ] Understand cloud concepts
-- [ ] Learn about core Azure services
-- [ ] Explore Azure pricing and support
-- [ ] Complete practice exams
+- [ ] Cloud Concepts  
+- [ ] Core Azure Services  
+- [ ] Core Solutions and Management Tools  
+- [ ] General Security and Network Security  
+- [ ] Identity, Governance, Privacy, and Compliance  
+- [ ] Azure Cost Management and SLAs  
+- [ ] Practice Exams  
+- [ ] Review & Revision
 
 ## AZ-104: Microsoft Azure Administrator
 
