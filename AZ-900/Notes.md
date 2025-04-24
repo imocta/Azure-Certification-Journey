@@ -8,11 +8,11 @@
 
   ## 🔢 Modules Checklist
 
-  ## ✅ AZ-900 John Savill Checklist
+  ## ✅ AZ-900 Study
 
   ### Domain 1 – Describe Cloud Concepts
   - [x] 1.1 Describe Cloud Computing
-  - [x] 1.2 Describe the benefits of using cloud services
+  - [ ] 1.2 Describe the benefits of using cloud services
   - [ ] 1.3 Describe Cloud Service Types
 
   ### Domain 2 – Describe Azure Architecture and Services
@@ -31,11 +31,11 @@
 
   ## 📓 Study Sessions
 
-  | Date       | Module         | What I Did                   | Pomodoro Cycles |      |
-  | ---------- | -------------- | ---------------------------- | --------------- | ---- |
-  | 2025-04-16 | Cloud Concepts | Youtube IC&S AZ900 Exam Cram | 1               |      |
-  |            |                |                              |                 |      |
-  |            |                |                              |                 |      |
+  | Date     | Module                  | What I Did                   | Pomodoro Cycles |      |
+  | -------- | ----------------------- | ---------------------------- | --------------- | ---- |
+  | 25-04-16 | Describe Cloud Concepts | Youtube IC&S AZ900 Exam Cram | 1               |      |
+  | 25-04-24 | Describe Cloud Concepts | Microsoft Learn              |                 |      |
+  |          |                         |                              |                 |      |
 
   ---
 

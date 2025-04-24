@@ -2,6 +2,8 @@
 
 ## AZ-900: Microsoft Azure Fundamentals
 
+#### :book: [MS Learn Path Page](https://learn.microsoft.com/en-us/training/courses/az-900t00)
+
 - [ ] Cloud Concepts  
 - [ ] Core Azure Services  
 - [ ] Core Solutions and Management Tools  
@@ -12,6 +14,8 @@
 - [ ] Review & Revision
 
 ## AZ-104: Microsoft Azure Administrator
+
+#### :book:  [MS Learn Path Page](https://learn.microsoft.com/pt-br/training/career-paths/administrator)
 
 - [ ] Manage Azure identities and governance
 - [ ] Implement and manage storage
