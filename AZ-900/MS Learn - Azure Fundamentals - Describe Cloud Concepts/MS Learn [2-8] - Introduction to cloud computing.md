@@ -1,1 +1,0 @@
-# MS Learn 2/8: - Introduction to cloud computing

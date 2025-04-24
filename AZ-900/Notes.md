@@ -32,11 +32,11 @@
   
   ## 📓 Study Sessions
   
-  | Date     | Module                  | What I Did      | Pomodoro Cycles |      |
-  | -------- | ----------------------- | --------------- | --------------- | ---- |
-  | 25-04-16 | Describe Cloud Concepts | YouTube Video   | 1               |      |
-  | 25-04-24 | Describe Cloud Concepts | Microsoft Learn | 1               |      |
-  |          |                         |                 |                 |      |
+  | Date     | Module                             | What I Did      | Pomodoro Cycles |      |
+  | -------- | ---------------------------------- | --------------- | --------------- | ---- |
+  | 25-04-16 | Describe Cloud Concepts            | YouTube Video   | 1               |      |
+  | 25-04-24 | Describe Cloud Concepts - Unit 3/8 | Microsoft Learn | 2               |      |
+  |          |                                    |                 |                 |      |
   
   ---
   
