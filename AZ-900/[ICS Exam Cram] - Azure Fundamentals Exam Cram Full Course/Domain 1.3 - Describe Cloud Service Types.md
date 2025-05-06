@@ -36,9 +36,43 @@ From the types of cloud, there are Iaas, Paas and SaaS. There is the model of sh
 #### **IaaS** - 
 
 - ***CSP provides*** the building blocks. Building blocks are *Networking, Storage, Servers and Virtualization.*
-- ***CSP manages*** staff, HW, and datacenter
+- ***CSP manages*** staff, HW, and datacenter. These are the people hired to work within Azure servers, security, etc.
+- **Service Example:** Azure Virtual Machines (AVM)
 
-All major CSPs have an IaaS offering.
+All major CSPs have an IaaS offering. In Azure, the Infrastructure as a Service is named 'Azure Virtual Machines (AVM)'.
 
- 
+ The Utility functionality is pushed off to the CSP.
 
+##### IaaS Use Cases (*When to use Virtual Machines*)
+
+- <u>During testing and development</u> - VMs offer quick easy to different OS and application creation and configuration.
+  Deploy and deletion of VM easily, instead of how it was before, where it could take days and weeks
+- <u>When running applications in the cloud</u> - Technical and Financial benefits, as when app needs to handle fluctuations in demand.
+  Quickly shutting VMs down and Up whenever it's needed, like in sudden demand increase, which means paying only for the used resources
+- <u>When extending your datacenter to the cloud</u> - Possibility of extending capabilities of the own on-premises network by creating a virtual network in Azure and adding VMs to that virtual network. This makes it easier and less expensive to deploy than on-premises
+- <u>During disaster recovery</u> - Significant saving costs are enabled when using an IaaS-based approach to disaster recovery, due to the VMs capability (push button automated VM spin up and shutdown in a disaster). 
+  - "*Based on personal research, this is very interesting. There are protocols one could set up in case of disasters, such as power outage, Ransomware attacks and many other situations. Very smart. There is auto-routing, dns rerouting, settings for specific scenarios or response, to make it seamless, many interesting features*"
+
+#### PaaS -
+
+- **Customer Responsibility: ** Deployment and management of apps
+- **CSP Responsibility:** Provisioning, configuration, hardware and OS management
+- **Service Example:** Azure SQL Database, API Management, Azure App Service
+
+
+
+**PaaS Use Cases (*When to use PaaS Services*)**
+
+- <u>Development Framework:</u> 
+
+  - PaaS provides a framework, enabling possibilities to build upon or customize cloud-based applications
+  - Allows application development using built-in software components
+  - Reduce the amount of coding on developers side by including cloud features, such as scalability, high-availability and multi-tenant. 
+
+  *Reduces developer effor and increases solution quality*
+
+  
+
+  [Stoped at this timeframe: https://youtu.be/8n-kWJetQRk?t=2359]
+
+  
