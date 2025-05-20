@@ -27,7 +27,7 @@ From the types of cloud, there are Iaas, Paas and SaaS. There is the model of sh
 
 
 
-* ***Important distinction**: Cloud Deployment and Cloud Services. Cloud deployment would be the Location and Ownership of each model provides. Hybrid, Private and Public, would be Deployment Models, where as Iaas, Saas and Paas are the Service Model, managing the tech stack.*
+* *There is a distinction between Cloud Deployment and Cloud Services. Cloud deployment would be the Location and Ownership that each model provides. Hybrid, Private and Public, would be Deployment Models, where as Iaas, Saas and Paas are the Service Model, managing the tech stack.**
 
 
 
@@ -45,7 +45,7 @@ All major CSPs have an IaaS offering. In Azure, the Infrastructure as a Service 
 
 ##### IaaS Use Cases (*When to use Virtual Machines*)
 
-- <u>During testing and development</u> - VMs offer quick easy to different OS and application creation and configuration.
+- <u>During testing and development</u> - VMs offer quick and easy ways to create and configure different OS and applications.
   Deploy and deletion of VM easily, instead of how it was before, where it could take days and weeks
 - <u>When running applications in the cloud</u> - Technical and Financial benefits, as when app needs to handle fluctuations in demand.
   Quickly shutting VMs down and Up whenever it's needed, like in sudden demand increase, which means paying only for the used resources
@@ -69,10 +69,4 @@ All major CSPs have an IaaS offering. In Azure, the Infrastructure as a Service 
   - Allows application development using built-in software components
   - Reduce the amount of coding on developers side by including cloud features, such as scalability, high-availability and multi-tenant. 
 
-  *Reduces developer effor and increases solution quality*
-
-  
-
-  [Stoped at this timeframe: https://youtu.be/8n-kWJetQRk?t=2359]
-
-  
+  *Reduces developer effort and increases solution quality*
